@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tenczowy
-- 👀 I’m interested in Computer Science, Gaming, 3D Graphice
+- 👀 I’m interested in Computer Science, Gaming, 3D Graphic
 - 🌱 I’m currently learning Java/JavaFX
 
 <!---
