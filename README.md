@@ -1,5 +1,5 @@
 ### Hi there 👋
-View my Personal Website: https://tenczowy.github.io/personal-site/](https://daniel-brodowski.netlify.app
+View my Personal Website: https://daniel-brodowski.netlify.app
 
 - 🔭 I’m currently working on Personal Website
 - 🌱 I’m currently learning Front End Web Development
