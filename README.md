@@ -1,6 +1,16 @@
 ### Hi there 👋
 View my Personal Website: https://daniel-brodowski.netlify.app
 
+Latest projects: 
+//Started learning about backend. Simple blog application with faked login. Futures available are login, add post, delete post, edit post. 
+For testing purpose: Login: 1 , Password: 1
+https://tenczowy-blog.onrender.com 
+
+//My take on simple ToDoApp, only front end, data is saved in local storage.
+https://tenczowy.github.io/toDoApp/
+
+
+
 - 🔭 I’m currently working on Personal Website
 - 🌱 I’m currently learning Front End Web Development
 - 🤔 I’m looking for help with find first job as junior web developer.
