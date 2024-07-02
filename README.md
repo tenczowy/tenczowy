@@ -1,7 +1,7 @@
 ### Hi there 👋
 View my Personal Website: https://daniel-brodowski.netlify.app
 
-###Latest projects: 
+### Latest projects: 
 //Started learning about backend. Simple blog application with faked login. 
 Futures available are login, add post, delete post, edit post. 
 For testing purpose: Login: 1 , Password: 1
