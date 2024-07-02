@@ -2,12 +2,12 @@
 View my Personal Website: https://daniel-brodowski.netlify.app
 
 ### Latest projects: 
-//For testing purpose: Login: 1 , Password: 1 
+- For testing purpose: Login: 1 , Password: 1 
 https://tenczowy-blog.onrender.com 
 
-//My take on simple ToDoApp, only front end, data is saved in local storage.
+- My take on simple ToDoApp, only front end, data is saved in local storage.
 https://tenczowy.github.io/toDoApp/
-
+- Landing page of made up company https://omnifood-by-daniel.netlify.app
 
 
 - 🔭 I’m currently working on Personal Website
