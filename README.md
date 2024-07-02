@@ -7,9 +7,9 @@ https://tenczowy-blog.onrender.com
 
 - My take on simple ToDoApp, only front end, data is saved in local storage.
 https://tenczowy.github.io/toDoApp/
-- Landing page of made up company https://omnifood-by-daniel.netlify.app
+- Landing page, (project was part of udemy course by Jonas Schmedtmann) https://omnifood-by-daniel.netlify.app
 
-
+### About me: 
 - 🔭 I’m currently working on Personal Website
 - 🌱 I’m currently learning Front End Web Development
 - 🤔 I’m looking for help with find first job as junior web developer.
