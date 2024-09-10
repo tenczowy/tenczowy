@@ -2,7 +2,7 @@
 View my Personal Website: https://daniel-brodowski.netlify.app
 
 ### Latest projects: 
--small bakery online shop with fully functional cart future
+- small bakery online shop with fully functional cart future
 https://main--bakeryshopbydaniel.netlify.app/
 
 - For testing purpose: Login: 1 , Password: 1 
